@@ -19,17 +19,17 @@ This dashboard lets users:
 
 The dashboard includes stock data for the following companies (as seen in the slicer panel):
 
-- HDFCBANK
-- AXISBANK
-- BANKBARODA
-- HEROMOTOCO
-- HONDAPOWER
-- ICICIBANK
-- INFY (Infosys)
+- HDFC BANK
+- AXIS BANK
+- BANK OF BARODA
+- HERO MOTO CORP
+- HONDA POWER
+- ICICI BANK
+- INFOSYS
 - MARUTI
 - RELIANCE
 - SBIN (SBI)
-- TATAMOTORS
+- TATA MOTORS
 - TCS
 - WIPRO
 
